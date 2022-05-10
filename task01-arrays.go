@@ -9,3 +9,4 @@ func average(input [15]float32) (result float32) {
         }
         result = sum / 15.0
         return result	
+}
